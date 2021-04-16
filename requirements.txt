@@ -1,0 +1,7 @@
+Requirements to be listed here:
+
+Example:
+pandas
+numpy
+opencv-contrib-python
+black
