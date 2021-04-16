@@ -5,7 +5,7 @@ Project info
 ## Getting started
 
 1. Install [required tech] (example: python3)
-2. Install [dependencies](./requirements.txt)
+2. Install [dependencies] (./requirements.txt)
 
 - `pip3 install -r requirements.txt`
 
